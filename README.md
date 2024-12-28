@@ -1,1 +1,1 @@
-# eventify
+Eventify is a web application designed to enhance the event management and registration experience for students, organizers. The platform offers a comprehensive suite of features that simplify event registration, Venue Booking, Event Listings, DL application and Event Reviews. By providing an all-in-one event management mechanism, Eventify aims to streamline the event process and foster a cohesive and efficient environment. It is a major project using HTML, CSS, and JavaScript for the frontend, with Firebase as the backend database.
